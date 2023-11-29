@@ -1,4 +1,4 @@
-# Faça um gerador de Matriz de numeros >= 0 onde a quantidade de linhas, colunas e os valores será definidos pelo usuário e imprima a matriz em seguida, realize uma operação que será decidida pelo usuário de soma (+) ou multiplicação (*) e em seguida defina qual linha sera utilizada no proscesso e a imprima, no final imprima a soma ou a multiplicação.
+#Faça um gerador de Matriz de numeros >= 0 onde a quantidade de linhas, colunas e os valores será definidos pelo usuário e imprima a matriz em seguida, realize uma operação que será decidida pelo usuário de soma (+) ou multiplicação (*) e em seguida defina qual linha sera utilizada no proscesso e a imprima, no final imprima a soma ou a multiplicação.
 
 #Variáveis para definir a quantidade de linhas e colunas:
 linhas_da_matriz = int(input("Digite a quantidade de linhas terá a matriz: "))
